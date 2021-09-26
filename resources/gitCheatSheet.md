@@ -15,4 +15,4 @@
 | git push <remote> <branch>  | Push the branch to , along with necessary commits and objects. Creates named branch in the remote repo if it doesn’t exist.    |
 
 
-## Wrong heading
+## Right heading
